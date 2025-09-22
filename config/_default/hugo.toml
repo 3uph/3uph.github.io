@@ -1,0 +1,11 @@
+baseURL = ""https://3uph.github.io/""
+languageCode = "en-us"
+title = "3uph"
+theme = "congo"
+
+[pagination]
+  pagerSize = 10
+
+[markup.goldmark.renderer]
+  unsafe = true   
+

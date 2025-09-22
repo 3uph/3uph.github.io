@@ -1,0 +1,15 @@
+[[main]]
+name = "whoami"
+pageRef = "/whoami/"
+weight = 1
+
+[[main]]
+name = "blog"
+pageRef = "/posts/"
+weight = 2
+
+[[main]]
+name = "writeups"
+pageRef = "/writeups/"
+weight = 3
+

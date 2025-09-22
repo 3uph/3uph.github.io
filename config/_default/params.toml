@@ -1,0 +1,24 @@
+[params]
+  mainSections = ["posts","writeups"]
+
+  colorScheme = "auto"
+  enableCodeCopy = true
+  showReadingTime = true
+  toc = true
+  breadcrumb = true
+
+  customCSS = ["css/custom.css"]
+
+  [params.homepage]
+    showRecent = true
+    recentLimit = 8
+    showSectionCards = true
+
+[[params.social]]
+name = "GitHub"
+url  = "https://github.com/3uph/"
+
+[[params.social]]
+name = "LinkedIn"
+url  = "https://www.linkedin.com/in/arnauvilablanquer/"
+

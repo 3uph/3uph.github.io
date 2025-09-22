@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>3uph</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 3uph</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>whoami</title>
+      <link>http://localhost:1313/whoami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/whoami/</guid>
+      <description>&lt;div class=&#34;term term-wide&#34;&gt;&#xA;  &lt;div class=&#34;term-header&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt; arnau@3uph:~&lt;/div&gt;&#xA;  &lt;div class=&#34;term-body&#34;&gt;&lt;code&gt;&lt;span class=&#34;p&#34;&gt;$&lt;/span&gt; &lt;span class=&#34;cmd&#34;&gt;whoami&lt;/span&gt;&#xA;3uph&#xA;&lt;span class=&#34;p&#34;&gt;$&lt;/span&gt; &lt;span class=&#34;cmd&#34;&gt;ls&lt;/span&gt;&#xA;README.md  education.txt  certs.txt  practice.txt  attended_events.txt  languages.txt&#xA;&lt;span class=&#34;p&#34;&gt;$&lt;/span&gt; &lt;span class=&#34;cmd&#34;&gt;cat&lt;/span&gt; &lt;span class=&#34;arg&#34;&gt;README.md&lt;/span&gt;&#xA;Computer Engineering student at UPV (ARA high-performance track) focused on cybersecurity.&#xA;Strong interest in offensive security and junior blue-team; active learning through labs, CTFs, and projects.&#xA;Academic exchange at Metropolia University of Applied Sciences (Finland).&#xA;&lt;span class=&#34;p&#34;&gt;$&lt;/span&gt; &lt;span class=&#34;cmd&#34;&gt;cat&lt;/span&gt; &lt;span class=&#34;arg&#34;&gt;education.txt&lt;/span&gt;&#xA;Universitat Politècnica de València (UPV)&#xA;  Degree in Computer Engineering (Information Technology Mention) — Valencia, 2022–2026&#xA;  • Selected for the ARA (High Academic Performance) track and pursuing the Information Technology mention.&#xA;&lt;p&gt;Metropolia University of Applied Sciences&#xA;Academic Exchange (Information Technology Specialisation) — Helsinki, Finland — Aug 2025–Dec 2025&#xA;• Exchange student focusing on Ethical Hacking &amp;amp; Practical Cybersecurity; hands-on labs, CTF practice, and red/blue-team exercises.&#xA;&lt;span class=&#34;p&#34;&gt;$&lt;/span&gt; &lt;span class=&#34;cmd&#34;&gt;cat&lt;/span&gt; &lt;span class=&#34;arg&#34;&gt;certs.txt&lt;/span&gt;&#xA;OSCP — Offensive Security Certified Professional (in progress)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
