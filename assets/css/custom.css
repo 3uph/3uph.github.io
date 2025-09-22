@@ -129,4 +129,11 @@ header, .site-header, .header, .top-nav, .top-navigation {
   position: relative;
   z-index: 40 !important;
 }
+:root{
+  --line-gap: .65rem;   /* hueco pequeño entre items */
+  --section-gap: 1.2rem;/* hueco grande entre bloques */
+}
+
+.term-body .gap     { display:block; height: var(--line-gap); }
+.term-body .section { display:block; height: var(--section-gap); }
 

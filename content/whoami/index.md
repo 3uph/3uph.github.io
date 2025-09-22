@@ -20,19 +20,19 @@ Academic exchange at Metropolia University of Applied Sciences (Finland).
 Universitat Politècnica de València (UPV)
   Degree in Computer Engineering (Information Technology Mention) — Valencia, 2022–2026
   • Selected for the ARA (High Academic Performance) track and pursuing the Information Technology mention.
-
+<span class="gap"></span>
 Metropolia University of Applied Sciences
   Academic Exchange (Information Technology Specialisation) — Helsinki, Finland — Aug 2025–Dec 2025
   • Exchange student focusing on Ethical Hacking & Practical Cybersecurity; hands-on labs, CTF practice, and red/blue-team exercises.
 <span class="p">$</span> <span class="cmd">cat</span> <span class="arg">certs.txt</span>
 OSCP — Offensive Security Certified Professional (in progress)
-
+<span class="gap"></span>
 OSWP — Offensive Security Wireless Professional — 2025
   • Practical certification focused on 802.11 assessments: wireless recon, WEP/WPA/WPA2/WPA-Enterprise attacks, evil twin/rogue AP, handshake capture/cracking, and mitigations.
-
+<span class="gap"></span>
 eJPTv2 — INE Junior Penetration Tester — 2024
   • Entry-level pentesting: methodology, reconnaissance, networks & systems, vulnerability assessment, exploitation (network/web), and reporting. Practical black-box exam.
-
+<span class="gap"></span>
 ICCA — INE Certified Cloud Associate — 2024
   • Cloud fundamentals: IaaS/PaaS/SaaS, IAM, shared responsibility model, multi-provider basics, and security best practices.
 <span class="p">$</span> <span class="cmd">cat</span> <span class="arg">practice.txt</span>
@@ -41,7 +41,7 @@ ICCA — INE Certified Cloud Associate — 2024
 <span class="p">$</span> <span class="cmd">cat</span> <span class="arg">attended_events.txt</span>
 RootedCON Valencia 2024 — Valencia, 2024
   • Talks covered topics like infostealers, ransomware, Dark Web deanonymization, digital signatures.
-
+<span class="gap"></span>
 RootedCON Madrid 2025 — ISACA Madrid Track — Madrid, 2025
   • Followed the ISACA Madrid track. Sessions focused on audit and governance: planning and scoping, evidence gathering, reporting, and aligning controls with frameworks (e.g., COBIT/ISO 27001).
   • Takeaways: clearer view of the IT audit lifecycle, risk & control mapping, and how ISACA certifications fit into professional pathways and CPE maintenance.
