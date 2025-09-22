@@ -224,4 +224,9 @@ header, .site-header, .header, .top-nav, .top-navigation {
 .not-prose .term-body code::after {
   content: none !important;
 }
+.not-prose .term-body code {
+  white-space: pre-wrap;   /* keep \n and multiple spaces; still wraps long lines */
+  word-break: break-word;  /* avoid overflow on long words/URLs */
+  line-height: 1.55;
+}
 
