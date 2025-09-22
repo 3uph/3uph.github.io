@@ -162,3 +162,39 @@
 .term-body code {
   color: #ffffff !important;
 }
+
+/* --- Bulletproof terminal background fill --- */
+.term {
+  position: relative;
+  overflow: hidden;              /* keep rounded corners */
+  border-radius: 12px;
+}
+.term::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--term-bg);
+  z-index: 0;                    /* always behind content */
+}
+.term-header,
+.term-body { position: relative; z-index: 1; }
+
+/* Neutralize typography masks/width clamps inside terminal */
+.not-prose,
+.not-prose .term,
+.not-prose .term-body,
+.not-prose .term-body code {
+  width: 100% !important;
+  max-width: none !important;
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  overflow: visible !important;
+}
+
+/* Ensure white text and no auto backticks */
+.not-prose .term-body code { color: #ffffff !important; }
+.not-prose .term-body code::before,
+.not-prose .term-body code::after { content: none !important; }
+
+/* (Extra safety) nuke any inner backgrounds that create a stripe */
+.not-prose .term-body * { background: transparent !important; }
