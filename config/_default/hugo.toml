@@ -1,5 +1,5 @@
 baseURL = "https://3uph.github.io/"
-languageCode = "en-us"
+languageCode = "en"
 title = "3uph"
 theme = "congo"
 
@@ -7,21 +7,18 @@ theme = "congo"
   pagerSize = 10
 
 [markup.goldmark.renderer]
-  unsafe = true   
+  unsafe = true
 
-[menu]
-  [[menu.main]]
-    name = "whoami"
-    url  = "/whoami/"
-    weight = 10
-
-  [[menu.main]]
-    name = "blog"
-    url  = "/posts/"        # <-- must be /posts/ (not /blog/)
-    weight = 20
-
-  [[menu.main]]
-    name = "writeups"
-    url  = "/writeups/"
-    weight = 30
+[params]
+  mainSections = ["posts","writeups"]
+  colorScheme = "auto"
+  enableCodeCopy = true
+  showReadingTime = true
+  toc = true
+  breadcrumb = true
+  customCSS = ["css/custom.css"]
+  [params.homepage]
+    showRecent = true
+    recentLimit = 8
+    showSectionCards = true
 

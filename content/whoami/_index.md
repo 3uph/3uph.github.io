@@ -6,7 +6,7 @@ showDate: false
 showReadingTime: false
 ---
 
-<div class="term term-wide">
+<div class="term term-wide not-prose">
   <div class="term-header"><span></span><span></span><span></span> arnau@3uph:~</div>
   <div class="term-body"><code><span class="p">$</span> <span class="cmd">whoami</span>
 3uph
