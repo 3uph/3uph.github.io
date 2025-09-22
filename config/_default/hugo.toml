@@ -1,6 +1,6 @@
 baseURL = "https://3uph.github.io/"
 languageCode = "en"
-title = "3uph"
+title = "3uph's web page"
 theme = "congo"
 
 [pagination]
