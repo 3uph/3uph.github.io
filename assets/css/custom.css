@@ -140,26 +140,25 @@
   mask-image: none !important;
   overflow: visible !important;
 }
-
-/* Defeat any prose/typography width limits or masks inside the terminal */
 .prose .term,
 .prose .term-body,
-.prose .term-body code {
+.prose .term-body code,
+.not-prose .term-body,
+.not-prose .term-body code {
   max-width: none !important;
   -webkit-mask-image: none !important;
   mask-image: none !important;
   overflow: visible !important;
 }
 
-/* If the theme adds gradient fades for scrollable code, disable them here */
-.prose pre:not(.not-prose),
-.prose code:not(.not-prose) {
-  -webkit-mask-image: none !important;
-  mask-image: none !important;
+/* Remove auto backticks and keep white text inside terminal */
+.prose .term-body code::before,
+.prose .term-body code::after,
+.term-body code::before,
+.term-body code::after {
+  content: none !important;
 }
-
-/* ---------- Writeups intro spacing (optional) ---------- */
-.prose .section-intro { 
-  margin-top: 1rem;   /* tweak as you like */
+.prose .term-body code,
+.term-body code {
+  color: #ffffff !important;
 }
-
