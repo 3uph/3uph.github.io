@@ -1,5 +1,5 @@
 ---
-title: "3uph's web page"
+title: ""
 description: ""
 showDate: false
 showReadingTime: false
