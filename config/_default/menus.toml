@@ -5,11 +5,11 @@ weight = 1
 
 [[main]]
 name = "blog"
-pageRef = "/content/posts/"
+pageRef = "/content/blog/"
 weight = 2
 
 [[main]]
 name = "writeups"
-pageRef = "/content//writeups/"
+pageRef = "/content/writeups/"
 weight = 3
 
