@@ -9,3 +9,19 @@ theme = "congo"
 [markup.goldmark.renderer]
   unsafe = true   
 
+[menu]
+  [[menu.main]]
+    name = "whoami"
+    url  = "/whoami/"
+    weight = 10
+
+  [[menu.main]]
+    name = "blog"
+    url  = "/posts/"        # <-- must be /posts/ (not /blog/)
+    weight = 20
+
+  [[menu.main]]
+    name = "writeups"
+    url  = "/writeups/"
+    weight = 30
+

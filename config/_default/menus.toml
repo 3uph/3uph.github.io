@@ -1,15 +1,15 @@
 [[main]]
 name = "whoami"
-pageRef = "/content/whoami/"
+pageRef = "/whoami/"
 weight = 1
 
 [[main]]
 name = "blog"
-pageRef = "/content/blog/"
+pageRef = "/posts/"
 weight = 2
 
 [[main]]
 name = "writeups"
-pageRef = "/content/writeups/"
+pageRef = "/writeups/"
 weight = 3
 
