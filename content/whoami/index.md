@@ -25,7 +25,8 @@ Metropolia University of Applied Sciences
   Academic Exchange (Information Technology Specialisation) — Helsinki, Finland — Aug 2025–Dec 2025
   • Exchange student focusing on Ethical Hacking & Practical Cybersecurity; hands-on labs, CTF practice, and red/blue-team exercises.
 <span class="p">$</span> <span class="cmd">cat</span> <span class="arg">certs.txt</span>
-OSCP — Offensive Security Certified Professional (in progress)
+OSCP — Offensive Security Certified Professional — 2025
+  • Practical penetration testing certification: network/web app exploitation, privilege escalation, post-exploitation, and reporting. 
 <span class="gap"></span>
 OSWP — Offensive Security Wireless Professional — 2025
   • Practical certification focused on 802.11 assessments: wireless recon, WEP/WPA/WPA2/WPA-Enterprise attacks, evil twin/rogue AP, handshake capture/cracking, and mitigations.
@@ -36,8 +37,8 @@ eJPTv2 — INE Junior Penetration Tester — 2024
 ICCA — INE Certified Cloud Associate — 2024
   • Cloud fundamentals: IaaS/PaaS/SaaS, IAM, shared responsibility model, multi-provider basics, and security best practices.
 <span class="p">$</span> <span class="cmd">cat</span> <span class="arg">practice.txt</span>
-  • Offensive Security Proving Grounds (PG): 40+ machines compromised (privilege escalation, service exploitation, AD, and documentation).
-  • Hack The Box (HTB): 20+ machines solved (Linux/Windows enumeration, web exploitation, credential attacks, pivoting).
+  • Offensive Security Proving Grounds (PG): +50 machines compromised (privilege escalation, service exploitation, AD, and documentation).
+  • Hack The Box (HTB): +40 machines solved (Linux/Windows enumeration, web exploitation, credential attacks, pivoting).
 <span class="p">$</span> <span class="cmd">cat</span> <span class="arg">attended_events.txt</span>
 RootedCON Valencia 2024 — Valencia, 2024
   • Talks covered topics like infostealers, ransomware, Dark Web deanonymization, digital signatures.
