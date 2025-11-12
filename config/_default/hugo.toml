@@ -10,7 +10,7 @@ theme = "congo"
   unsafe = true
 
 [params]
-  mainSections = ["posts","writeups"]
+  mainSections = ["posts"]
   colorScheme = "auto"
   enableCodeCopy = true
   showReadingTime = true
