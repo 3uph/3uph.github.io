@@ -8,8 +8,3 @@ name = "blog"
 pageRef = "/posts/"
 weight = 2
 
-[[main]]
-name = "writeups"
-pageRef = "/writeups/"
-weight = 3
-
