@@ -36,7 +36,7 @@ This is where things changed. When I arrived in Helsinki, I started to experienc
 
 ## The grind and burnout
 
-I started doing machines every day, hitting 5, 6, or even 7 a day. It was a hard push, but it built momentum and confidence. My exam was scheduled for the first week of November, and I went back to Spain because I wanted to take it on my desktop PC, not my laptop. Two weeks before the exam, I felt burned out. I wasn’t as focused as at the start. By then, I had done about 80–90 machines. Because I wasn’t fully focused, I couldn’t root some boxes, and I began to doubt whether I could pass. My self-confidence went down. Reading Reddit threads about the exam and other people’s experiences didn’t help, I compared their backgrounds to mine and felt smaller. Spending a lot of time on LinkedIn didn’t help either. Seeing people earn big certs, land great jobs, and learn very hard things slowly discouraged me.
+I started doing machines every day, hitting 5, 6, or even 7 a day. It was a hard push, but it built momentum and confidence. My exam was scheduled for the first week of November, and I went back to Spain because I wanted to take it on my desktop PC, not in my laptop. Two weeks before the exam, I felt burned out. I wasn’t as focused as at the start. By then, I had done about 80–90 machines. Because I wasn’t fully focused, I couldn’t root some boxes, and I began to doubt whether I could pass. My self-confidence went down. Reading Reddit threads about the exam and other people’s experiences didn’t help, I compared their backgrounds to mine and felt smaller. Spending a lot of time on LinkedIn didn’t help either. Seeing people earn big certs, land great jobs, and learn very hard things slowly discouraged me.
 
 ## The decision to rest
 
