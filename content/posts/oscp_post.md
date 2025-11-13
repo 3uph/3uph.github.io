@@ -4,8 +4,6 @@ date: 2025-11-12T10:11:38Z
 draft: false
 description: "How I went from eJPT to OSCP: study plan, failed first try, 80–90 practice boxes, a two-week reset, and a 70-point pass with a report-first strategy."
 ---
-# Try Smarter: My OSCP Journey
-
 ## How it started
 
 For a long time, the word “hacker” felt like the movies, people typing all night and breaking anything they want. When I was a kid, I spent a lot of time on the internet: reading forums, watching YouTube, and playing video games. I saw many game hacks and felt curious. How do they do that? Are they breaking the game? Why doesn’t the company stop them? I asked myself these questions, but I never found a good answer.
