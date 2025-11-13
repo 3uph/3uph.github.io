@@ -42,7 +42,7 @@ ICCA — INE Certified Cloud Associate — 2024
 <span class="p">$</span> <span class="cmd">cat</span> <span class="arg">languages.txt</span>
 Spanish (Native) · Catalan/Valencian (Native) · English (B2) · German (Basic)
 <span class="p">$</span> <span class="cmd">echo</span> <span class="arg">"see more at:"</span>
-/writeups  /posts
+/posts
 </code></div>
 </div>
 
